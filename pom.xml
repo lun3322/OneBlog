@@ -12,6 +12,7 @@
         <module>blog-web</module>
         <module>blog-admin</module>
         <module>blog-file</module>
+        <module>blog-admin-api</module>
     </modules>
 
     <name>blog</name>
